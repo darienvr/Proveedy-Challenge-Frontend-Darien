@@ -16,7 +16,7 @@ const HeroSection = () => {
             </div>
         </div>
         <div className='hero-img'>
-            <img src={imgHero} alt="Imagen de una laptop donde se puede apreciar una ventana de YachAI" />
+            <img src={imgHero} alt="Imagen de una laptop usando YachAI" />
         </div>
     </section>
   )
