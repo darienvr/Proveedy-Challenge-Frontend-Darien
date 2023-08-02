@@ -13,5 +13,7 @@ Este repositorio contiene la implementación de la landing page de YachAI. Esta 
 
 ## Capturas de Pantalla
 
+![Captura de la Landing Page - HeroSection](yachai.png)
+
 ¡Gracias por revisar este proyecto!
 
