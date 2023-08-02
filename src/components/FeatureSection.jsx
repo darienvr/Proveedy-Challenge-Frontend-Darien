@@ -7,7 +7,7 @@ const FeatureSection = ({img, title, subtitle, text, features, imgPosition}) => 
     <div className='feature-section'>
         {imgPosition === 'left' && (
             <div className='img-feature-container'>
-                <img src={img} className='img-feature' alt='#' />
+                <img src={img} className='img-feature' alt='Imagen correspondiente a la caracteristica mencionada en la seccion' />
             </div>
         )}
         <div className='feature-body'>
@@ -23,7 +23,7 @@ const FeatureSection = ({img, title, subtitle, text, features, imgPosition}) => 
         </div>
         {imgPosition === 'right' && (
             <div className='img-feature-container'>
-                <img src={img} className='img-feature' alt='#' />
+                <img src={img} className='img-feature' alt='Imagen correspondiente a la caracteristica mencionada en la seccion' />
             </div>
         )}
     </div>
